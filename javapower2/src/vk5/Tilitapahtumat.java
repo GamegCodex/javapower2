@@ -89,6 +89,7 @@ public class Tilitapahtumat {
 		System.out.format("Tilinro: %d, saldo %.2f %n", tili1.getTilinumero(), tili1.getSaldo());
 		System.out.format("Tilinro: %d, saldo %.2f %n", tili2.getTilinumero(), tili2.getSaldo());
 		System.out.println(tili1);
+		System.out.println();
 	}
 
 }
